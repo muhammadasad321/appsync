@@ -1,0 +1,23 @@
+User-agent: *
+
+Disallow: /admin/
+Disallow: download.php?id
+Disallow: /software-images/
+Disallow: /Software-files/
+
+Disallow: /css/
+Disallow: connection.inc.php
+Disallow: privacy policy.php
+
+Disallow: search.php
+Disallow: send_message.php
+Disallow: terms-and-conditions.php
+Disallow: Mac.php
+Disallow: Android.php
+
+Disallow: categories.php
+
+
+
+
+
